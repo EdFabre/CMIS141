@@ -1,0 +1,50 @@
+Alabama, Camellia, Yellowhammer
+Alaska, Forget-me-not, Willow Ptarmigan
+Arizona, Saguaro Cactus, Cactus Wren
+Arkansas, Apple Blossom, Mockingbird
+California, Golden Poppy, California Valley Quail
+Colorado, Rocky Mountain Columbine, Lark Bunting
+Connecticut, Mountain Laurel, Robin
+Delaware, Peach Blossom, Blue Hen Chicken
+Florida, Orange Blossom, Mockingbird
+Georgia, Cherokee Rose, Brown Thrasher
+Hawaii, Hibiscus, Nene
+Idaho, Syringa, Mountain Bluebird
+Illinois, Native violet, Cardinal
+Indiana, Peony, Cardinal
+Iowa, Wild rose, Eastern Goldfinch
+Kansas, Native Sunflower, Western Meadowlark
+Kentucky, Goldenrod, Cardinal
+Louisiana, Magnolia, Eastern Brown Pelican
+Maine, Pine cone & tassle, Chickadee
+Maryland, Black eyed Susan, Baltimore Oriole
+Massachusetts, Mayflower, Chickadee
+Michigan, Apple blossom, Robin
+Minnesota, Lady slipper, Common Loon
+Mississippi, Magnolia, Mockingbird
+Missouri, Hawthorn, Bluebird
+Montana, Bitterroot, Western Meadowlark
+Nebraska, Goldenrod, Western Meadowlark
+Nevada, Sagebrush, Mountain Bluebird
+New Hampshire, Purple lilac, Purple Finch
+New Jersey, Purple Violet, Eastern Goldfinch
+New Mexico, Yucca, Roadrunner
+New York, Rose, Bluebird
+North Carolina, Dogwood, Cardinal
+North Dakota, Wild Prairie Rose, Western Meadowlark
+Ohio, Scarlet Carnation, Cardinal
+Oklahoma, Mistletoe, Scissor-tailed Flycatcher
+Oregon, Oregon Grape, Western Meadowlark
+Pennsylvania, Mountain Laurel, Ruffed Grouse
+Rhode Island, Violet, Rhode Island Red
+South Carolina, Yellow Jessamine, Great Carolina Wren
+South Dakota, Pasque flower, Ring-necked Pheasant
+Tennessee, Purple Iris, Mockingbird
+Texas, Texas Blue Bonnet, Mockingbird
+Utah, Sego lily, American Seagull
+Vermont, Red Clover, Hermit Thrush
+Virginia, Dogwood, Cardinal
+Washington, Western Rhododendron, Willow Goldfinch
+West Virginia, Rhododendron, Cardinal
+Wisconsin, Wood Violet, Robin
+Wyoming, Indian paint brush, Western Meadowlark
